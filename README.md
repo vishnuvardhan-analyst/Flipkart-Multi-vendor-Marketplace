@@ -35,6 +35,6 @@ The **Flipkart Multi-Vendor Marketplace** project is a business analysis case st
 
 ## 📬 Contact
 🔹 **[LinkedIn](https://www.linkedin.com/in/vishnuvardhan-s-analyst/)**  
-🔹 **Email: vishnuvardhan.analyst@gmail.com**
+🔹 **Email:vishnuvardhan.analyst@gmail.com**
 
 📌 *Feel free to fork and contribute to the project!* 🎯
