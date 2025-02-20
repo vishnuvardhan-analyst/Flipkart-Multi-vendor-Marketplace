@@ -1,7 +1,5 @@
 # Flipkart Multi-Vendor Marketplace
 
-![Flipkart Multi-Vendor Marketplace](https://upload.wikimedia.org/wikipedia/commons/0/05/Flipkart_logo.png)
-
 ## 📌 Project Overview
 The **Flipkart Multi-Vendor Marketplace** project is a business analysis case study designed to simulate an e-commerce marketplace similar to Flipkart. It includes key business and functional requirements, data flow diagrams, and wireframes to analyze marketplace performance.
 
@@ -26,19 +24,15 @@ The **Flipkart Multi-Vendor Marketplace** project is a business analysis case st
  │   └── Level_2_DFD.png
 ```
 
-## 🔍 Key Insights
-- **Seller Dashboard**: Provides an overview of sales performance and inventory management.
-- **Price Comparison Dashboard**: Helps vendors analyze competitor pricing strategies.
-
 ## 🛠️ Tech Stack
-- **Tools Used**: Lucidchart (for DFDs), Figma (for wireframes)
+- **Tools Used**: Lucidchart (for DFDs), Figma (for wireframes), MS Word (for FRD & BRD)
 
 ## 📢 How to Use
 1. **Review Documents**: Start with BRD & FRD to understand the project scope.
 2. **Explore Wireframes & DFDs**: Understand system workflows.
 
 ## 📬 Contact
-🔹 **[LinkedIn](https://www.linkedin.com/in/your-profile/)**  
-🔹 **Email: your.email@example.com**
+🔹 **[LinkedIn](https://www.linkedin.com/in/vishnuvardhan-s-analyst/)**  
+🔹 **Email: vishnuvardhan.analyst@gmail.com**
 
 📌 *Feel free to fork and contribute to the project!* 🎯
