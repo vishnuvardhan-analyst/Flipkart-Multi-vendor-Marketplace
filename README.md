@@ -31,7 +31,7 @@ The **Flipkart Multi-Vendor Marketplace** project is a business analysis case st
 2. **Explore Wireframes & DFDs**: Understand system workflows.
 
 ## 🎥 Project Video
-[![Watch the video](https://www.linkedin.com/posts/vishnuvardhan-s-analyst_ecommerce-businessanalysis-marketplacemodel-activity-7298240423007789057-yORI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5RXooBUbRlWVvogeRkVIsQyykoY-oxIrU)
+🔗 [Watch the project video on LinkedIn](https://www.linkedin.com/posts/vishnuvardhan-s-analyst_ecommerce-businessanalysis-marketplacemodel-activity-7298240423007789057-yORI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5RXooBUbRlWVvogeRkVIsQyykoY-oxIrU)
 
 ## 📬 Contact
 🔹 **[LinkedIn](https://www.linkedin.com/in/vishnuvardhan-s-analyst/)**  
